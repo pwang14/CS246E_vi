@@ -7,3 +7,5 @@ The program is written in C++ and demonstrates good object-oriented design (SOLI
 The RAII idiom is followed with the use of smart pointers and STL containers. The program design also follows the NVI idiom as much as possible.
 
 The ncurses library is used to enable display capabilities for the program.
+
+This program was written as the final project for CS246E.
