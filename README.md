@@ -8,4 +8,4 @@ The RAII idiom is followed with the use of smart pointers and STL containers. Th
 
 The ncurses library is used to enable display capabilities for the program.
 
-This program was written as the final project for CS246E.
+This program was written as the final project for CS246E during the Fall 2021 term.
